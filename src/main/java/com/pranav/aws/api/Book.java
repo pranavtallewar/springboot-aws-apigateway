@@ -1,4 +1,4 @@
-package com.javatechie.aws.api;
+package com.pranav.aws.api;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

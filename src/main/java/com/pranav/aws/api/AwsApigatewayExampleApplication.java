@@ -1,4 +1,4 @@
-package com.javatechie.aws.api;
+package com.pranav.aws.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,7 +9,7 @@ import java.util.List;
 
 @SpringBootApplication
 @RestController
-@RequestMapping("/book")
+@RequestMapping("/books")
 public class AwsApigatewayExampleApplication {
 
     private List<Book> books = new ArrayList<>();
